@@ -44,15 +44,6 @@ Finally, we examined the PCA loading to understand the contribution of each feat
     cd your-repo-name
     ```
 
-2. **Install the required packages**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Jupyter Notebook**:
-    ```bash
-    jupyter notebook wine_clustering.ipynb
-    ```
 
 ## Requirements
 
